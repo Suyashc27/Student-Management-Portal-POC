@@ -1,0 +1,97 @@
+
+.landingbody {
+  display: flex;
+  width: 100vw;
+  height: 92vh;
+  box-sizing: border-box;
+}
+.landingcontainer {
+  width: 80%;
+  height: 80%;
+  margin-top: 80px;
+  margin-left: 100px;
+  /* background-image: linear-gradient(to right, rgb(132, 32, 219), rgb(21, 0, 255)); */
+  background-image: linear-gradient(to right, rgb(41 123 167), rgb(0 72 110));
+  border-radius: 0 200px 0 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.landingcontainer h1 {
+    width: 80%;
+    font-size: 49px;
+    line-height: 80px;
+    height: 50%;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+.addsubjectcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.addsubjectmain {
+  display: flex;
+  justify-content: center;
+  width: 65%;
+  align-items: center;
+  margin-top: 100px;
+  border-radius: 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 10px 0px #aaaaaa;
+}
+
+.addsubjectimage img {
+  width: 350px;
+  height: 350px;
+}
+
+.formBody {
+  display: flex;
+  flex-direction: column;
+  /* padding-left: 40px */
+}
+
+.btnBody {
+  background-color: #21486f;
+  color: white;
+  font-weight: bold;
+  border: none;
+  height: 45px;
+  width: 120px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 30%;
+}
+
+.btnBody:hover,
+.btnBody:active,
+.btnBody:disabled {
+  background-color: #5fa2e6;
+  color: white;
+}
+
+.labelBody {
+  padding-bottom: 20px;
+  padding-right: 20px;
+
+  font-weight: bold;
+}
+
+.inputBody {
+  float: right;
+  height: 35px;
+  outline: none;
+}
+
+.textRight {
+  text-align: end;
+  font-size: 14px;
+}
+
+.hidden {
+  display: none;
+}

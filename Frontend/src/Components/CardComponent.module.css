@@ -1,0 +1,12 @@
+.cardComponent{
+margin-left: 15%; 
+ margin-top: 10%;  
+ margin-bottom:5%;
+ margin-right: 5%;
+ width:80%;
+ text-align: center;
+}
+.cardContainer
+{
+    display: flex;
+}

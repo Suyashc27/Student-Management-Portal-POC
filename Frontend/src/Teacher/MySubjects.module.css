@@ -1,0 +1,23 @@
+.subjectCard{   
+     height: 90vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subjectCardContainer{
+    display: flex;
+    height: 500px;
+    width: 1000px;
+    justify-content: space-between;
+}
+
+.subFields{
+    width: 400px;
+    /* height: 300px; */
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+

@@ -1,0 +1,30 @@
+.body{
+    background-color: linear-gradient(to bottom right, #f5f4f5,#ae70d0,#47ed87);
+    height: 100vh;
+    
+}
+.cardBody{
+    background-color:rgb(237, 168, 168);
+    width: 50%;
+    height: 60vh;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    padding-top: 10px;
+    background-image: linear-gradient(to bottom right, #f5f4f5,#ae70d0,#47ed87);
+
+    
+}
+
+.studentdata
+{
+    margin-left: 30px;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+      
+}

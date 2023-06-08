@@ -1,0 +1,104 @@
+.logout {
+  background-color: rgb(255, 0, 0);
+}
+
+
+.addIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.addTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+
+
+/* Delete */
+.deleteElement {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.deleteIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.deleteTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+
+/* Update */
+.updateElement {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.updateIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.updateTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+
+/* timetable */
+.timeTableElement {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.timeTableIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.timeTableTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+/* Fees Status */
+.feesElement {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.feesIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.feesTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+
+/* Feedback */
+.feedbackElement {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.feedbackIcon {
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.feedbackTitle {
+  margin-top: -30px;
+  margin-left: 30px;
+}

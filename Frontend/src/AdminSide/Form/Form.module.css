@@ -1,0 +1,132 @@
+
+.body{
+  margin: 0%;
+}
+
+.heading{
+  text-align: center;
+  /* margin-left: 0px; */
+  
+}
+.inputtag {
+  float: left;
+  /* width: 50%; */
+  margin-top: 6px;
+  margin-bottom: 35px;
+  
+}
+.label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+input[type=text],[type=email],[type=number],[type=password], select, textarea{
+  /* width: 60%; */
+  /* padding: 12px; */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  /* margin-bottom: 20px; */
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 1042px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+.formBody
+{
+  margin-left: 40%; 
+  margin-top: 10%;
+  width: 400px;
+  height: 50rem;
+}
+.labelBody
+{
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+.inputBody
+{
+  float: right;
+  height: 35px;
+  
+}
+
+.textRight{
+  text-align: right !important;
+}
+.hidden{
+  display: none;
+}
+.btnBody
+{
+  background-color: #21486f;
+  color: white;
+  font-weight: bold;
+  border: none;
+  height: 45px;
+  border-radius: 5px;
+  padding: 10px;
+  
+  
+}
+.btnBody:hover,
+.btnBody:active,
+.btnBody:disabled{
+  background-color: #5fa2e6;
+  color: white;
+}
+
+
+.Sidebar{
+  color: black;
+      height: 100vh;
+      width: 15rem;
+      background-color: #DFDFDF;
+      display: flex;
+      
+      /* position: fixed; */
+  }
+  
+
+
+.Form{
+
+    
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+      
+  }
+
+/* .MainContainer{
+  display: flex;
+  margin-top: 40px;
+  
+
+} */
+
+/* .materialForm{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 450px;
+  display: flex;
+ 
+  
+
+} */
+
+/* .submitButton{
+  background-color: rgb(4, 121, 255);
+} */
